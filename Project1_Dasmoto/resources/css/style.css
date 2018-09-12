@@ -1,0 +1,45 @@
+
+/* Styling for entire site */
+
+html {
+  font-family: "Helvetica";
+}
+
+/* Styling for the main header */
+
+h1 {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  color: khaki;
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+
+}
+
+/* Styling for the pricing info */
+
+span {
+  font-weight: bold;
+  color: blue;
+}
+
+/* Styling for the h2 headers */
+
+.h2-header {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+
+}
+
+.green {
+  background-color: mediumspringgreen;
+}
+
+.red {
+  background-color: lightcoral;
+}
+
+.blue {
+  background-color: skyblue;
+}
